@@ -1,2 +1,0 @@
-# MemoryGameSandbox
-Created with CodeSandbox
